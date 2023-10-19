@@ -1,4 +1,4 @@
-const mentionOptions = [
+[
 {"id":1,"first_name":"Merell","last_name":"Covert","email":"mcovert0@hibu.com","gender":"Male"},
 {"id":2,"first_name":"Sandy","last_name":"Maunton","email":"smaunton1@mtv.com","gender":"Female"},
 {"id":3,"first_name":"Dix","last_name":"Lunney","email":"dlunney2@vimeo.com","gender":"Female"},
@@ -49,6 +49,5 @@ const mentionOptions = [
 {"id":48,"first_name":"Elana","last_name":"Chettle","email":"echettle1b@answers.com","gender":"Female"},
 {"id":49,"first_name":"Cart","last_name":"Cessford","email":"ccessford1c@dion.ne.jp","gender":"Male"},
 {"id":50,"first_name":"Clementius","last_name":"Ferrarin","email":"cferrarin1d@wix.com","gender":"Male"}
-];
+]
 
-export default mentionOptions;

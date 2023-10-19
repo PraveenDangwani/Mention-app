@@ -1,5 +1,6 @@
 import React ,{ useState }  from 'react'
-import mentionOptions from './MentionOption'
+import mentionOptions from './MentionOption.json'
+
 
 const MentionComponent = () => {
     const [text, setText] = useState('');
